@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Ananya Priyadarshini
 
-<!--
-**Ananya-Priyadarshini03/Ananya-Priyadarshini03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Graduate | DevOps & Python Enthusiast  
+☁️ AWS | Terraform | Docker | Kubernetes  
+🚀 Passionate about Cloud & Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- Python
+- AWS (EC2, S3, IAM)
+- Linux
+- Terraform
+- MySQL
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- Blood Bank Management System
+- AWS 3-Tier Architecture Deployment
+- React Frontend Projects
+
+---
+
+## 📫 Connect With Me
+LinkedIn: Add your link here
+Email: Your email here
