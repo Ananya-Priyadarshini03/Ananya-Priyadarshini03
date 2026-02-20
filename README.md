@@ -24,5 +24,5 @@
 ---
 
 ## 📫 Connect With Me
-LinkedIn: Add your link here
-Email: Your email here
+LinkedIn: https://www.linkedin.com/in/ananya-priyadarshini-99716a278/
+Email: ananyapriyadarshini03@gmail.com
