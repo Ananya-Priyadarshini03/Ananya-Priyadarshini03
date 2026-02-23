@@ -6,15 +6,9 @@
 
 ---
 
-## 🔥 Skills
-- Python
-- AWS (EC2, S3, IAM)
-- Linux
-- Terraform
-- MySQL
-- Git & GitHub
 
----
+🛠 Languages and Tools
+AWS Linux Git GitHub Docker Kubernetes Jenkins Terraform Ansible Helm Nginx Prometheus Grafana Bash Python PostgreSQL Redis
 
 ## 📌 Projects
 - Blood Bank Management System
