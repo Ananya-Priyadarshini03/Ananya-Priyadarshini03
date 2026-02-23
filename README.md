@@ -1,21 +1,15 @@
-# Hi 👋 I'm Ananya Priyadarshini
 
-💻 BCA Graduate | DevOps & Python Enthusiast  
-☁️ AWS | Terraform | Docker | Kubernetes  
-🚀 Passionate about Cloud & Automation  
+<h1 align="center">Hi 👋 I'm Ananya Priyadarshini</h1>
+<h3 align="center">AWS & DevOps Enthusiast | Python Developer</h3>
 
----
+## 🚀 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,jenkins,git,linux,mysql,react" />
+</p>
 
+## 💡 Focus
+Cloud Infrastructure • CI/CD • Automation • Scalable Applications
 
-🛠 Languages and Tools
-AWS Linux Git GitHub Docker Kubernetes Jenkins Terraform Ansible Helm Nginx Prometheus Grafana Bash Python PostgreSQL Redis
-
-## 📌 Projects
-- Blood Bank Management System
-- AWS 3-Tier Architecture Deployment
-- React Frontend Projects
-
----
 
 ## 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/ananya-priyadarshini-99716a278/
