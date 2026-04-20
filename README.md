@@ -4,7 +4,7 @@
 
 ## 🚀 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,jenkins,git,linux,mysql,react" />
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,jenkins,git,linux,mysql,react,html,css,js,github,gitlab,bash,ansible,prometheus,grafana" />
 </p>
 
 ## 💡 Focus
