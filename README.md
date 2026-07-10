@@ -10,10 +10,23 @@
 ## 💡 Focus
 Cloud Infrastructure • CI/CD • Automation • Scalable Applications
 
-
 ## 📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/ananya-priyadarshini-99716a278/
-Email: ananyapriyadarshini03@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananya-priyadarshini-99716a278/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ananyapriyadarshini03@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananya-priyadarshini-99716a278/">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:ananyapriyadarshini03@gmail.com">Email</a>
+</p>
 
 
 ## 📊 GitHub Analytics
@@ -37,8 +50,3 @@ Email: ananyapriyadarshini03@gmail.com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-Priyadarshini03&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananya-Priyadarshini03&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
