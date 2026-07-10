@@ -2,13 +2,24 @@
 <h1 align="center">Hi 👋 I'm Ananya Priyadarshini</h1>
 <h3 align="center">AWS & DevOps Enthusiast | Python Developer</h3>
 
+
+
+## 👩‍💻 About Me
+
+I am a passionate technology enthusiast with a strong interest in **AWS Cloud**, **DevOps**, and **Python Development**. I enjoy learning modern cloud technologies, automating workflows, and building efficient applications. Currently, I am expanding my knowledge of **Docker, Kubernetes, Terraform, Jenkins, CI/CD**, and AWS services to build scalable and reliable cloud solutions.
+
+
+
 ## 🚀 Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,jenkins,git,linux,mysql,react,html,css,js,github,gitlab,bash,ansible,prometheus,grafana" />
 </p>
 
+
 ## 💡 Focus
 Cloud Infrastructure • CI/CD • Automation • Scalable Applications
+
+
 
 ## 📫 Connect With Me
 
@@ -27,6 +38,7 @@ Cloud Infrastructure • CI/CD • Automation • Scalable Applications
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:ananyapriyadarshini03@gmail.com">Email</a>
 </p>
+
 
 
 ## 📊 GitHub Analytics
